@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FirebaseAuthorization</string>
+    <string name="tv_email">Email</string>
+    <string name="email_hint">Enter valid email address</string>
+    <string name="tv_password">Password</string>
+    <string name="hint_password">Enter password</string>
+    <string name="button_login">Login</string>
+    <string name="button_sign_up"><u>Sign up</u></string>
+    <string name="tv_dont_have_account">Dont Have Account ?</string>
+    <string name="tv_name">Name</string>
+    <string name="name_sign_up">Enter Full Name</string>
+    <string name="email_sinup">Enter A Valid Email</string>
+    <string name="tv_confirm_password">Confirm Password</string>
+    <string name="tv_welcome">Welcome Back</string>
+    <string name="tv_login">Login Page</string>
+    <string name="menu_sign_out">Sign Out</string>
+    <string name="signup_header">Sign Up</string>
+    <string name="signup_subheader">fill the following information</string>
+    <string name="google_client_id">352927681471-7nmuh37opaoprkrnks8fr4663rfvih04.apps.googleusercontent.com</string>
+    <string name="not_connected">Not Yet Connected</string>
+    <string name="switch_one">Switch 1</string>
+    <string name="switch_two">Switch 2</string>
+    <string name="switch_three">Switch 3</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="my_name">No Name</string>
+    <string name="email">thisisme@gmail.com</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+</resources>
